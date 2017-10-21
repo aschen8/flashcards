@@ -1,30 +1,19 @@
 [
 
-{"frontCard":"What is Mr. Big's real name?",
-"backCard": "john",
-"fullAnswer": "John is Mr. Big's real name."
+{"frontCard":"What time did the man go to the dentist?",
+"backCard": "Tooth Hurty",
+"fullAnswer": "Tooth Hurty"
 },
 
-{"frontCard": "Who does Carrie write a column for?",
-  "backCard": "the daily star",
-  "fullAnswer": "Carrie writes a column for The Daily Star."
+{"frontCard": "What is a chicken coop with four doors?",
+  "backCard": "chicken sedan",
+  "fullAnswer": "chicken sedan"
 },
 
-{"frontCard":"What is Aiden's job?",
-  "backCard": "furniture designer",
-  "fullAnswer": "Aiden is a furniture designer."
-},
-
-{"frontCard":"How does Berger break-up with Carrie?",
-  "backCard":"a post-it note",
-  "fullAnswer": "Berger breaks up with Carrie using a post-it."
-
-},
-
-{
-  "frontCard":"What does Berger buy to symbolize his break-up?",
-  "backCard": "motorcycle",
-  "fullAnswer": "Berger buys a motorcycle to symbolize his break-up."
+{"frontCard":"Why were the peanuts so nice?",
+  "backCard": "they're complimentary",
+  "fullAnswer": "they're complimentary."
 }
+
 
 ]
