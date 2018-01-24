@@ -1,0 +1,22 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aschen8/flashcards.git"
+  },
+  "author": "andy chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aschen8/flashcards/issues"
+  },
+  "homepage": "https://github.com/aschen8/flashcards#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
